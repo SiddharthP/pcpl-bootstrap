@@ -1,0 +1,11 @@
+{
+  "name": "pcpl-bootstrap",
+  "version": "1.0.0",
+  "description": "PCPL website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Pendharkar",
+  "license": "ISC"
+}
